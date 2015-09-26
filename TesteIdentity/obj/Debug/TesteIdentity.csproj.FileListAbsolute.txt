@@ -64,6 +64,6 @@ C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdent
 C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\obj\Debug\TesteIdentity.csprojResolveAssemblyReference.cache
 C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\obj\Debug\TesteIdentity.dll
 C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\obj\Debug\TesteIdentity.pdb
+C:\Users\Marcilio\Documents\Visual Studio 2015\Projects\TesteIdentity\TesteIdentity\obj\Debug\TesteIdentity.csprojResolveAssemblyReference.cache
